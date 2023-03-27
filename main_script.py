@@ -80,7 +80,7 @@ mac_addresses = [adapter.MACAddress for adapter in c.Win32_NetworkAdapterConfigu
 
 # Konfigurasi autentikasi GitHub
 username = "doniramdani810"
-access_token = "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"
+access_token = "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"
 gist_id = "c5e3168ca282ed14fc5a763423cea8d7"
 
 # Membuat payload untuk mengupdate file pada Gist
